@@ -46,4 +46,6 @@ Creating a Kibana Dashboard
 Kibana dashboards allow you to combine visualization to quickly get an overview of the state of an entire system. You can also filter dashboards to filter each of the individual 
 visualizations that are part of the dashboard. will make a simple 
 dashboard using the area chart created previously.
+ conclusion 
+ created a highly sophisticated log aggregation system using Kibana running on the Amazon OpenSearch Service. This log aggregation system can scale to fit our needs, even if  traffic increases dramatically. Simply return to the Amazon OpenSearch Service Console and request a higher instance count or a larger instance type. For  production deployments, a log aggregation system running on this stack will helps provide valuable operational insights to your team, track system usage, and aid in debugging any issues  system may experience.
  
