@@ -1,12 +1,10 @@
 # LOG-AGGREGATION-SYSTEM-IN-AWS
 Monitor Like a DevOps Pro: Build A Log Aggregation System in AWS
 
-A sophisticated tool called a log  aggregation system gathers operational  information and logs from across your entire cloud. The log aggregation system is an advanced DevOps technique that enables you to quickly search your logs and graph any trends arising from structured logs.
+A sophisticated tool called a log  aggregation system gathers operational  information and logs from across  entire cloud. The log aggregation system is an advanced DevOps technique that enables you to quickly search your logs and graph any trends arising from structured logs.
 
 In this project will create a distributed, scalable log aggregation system within AWS running on Amazon OpenSearch Service. This Log Aggregation System will ingest as much 
-
-of your CloudWatch log stream events as you want, events generated from AWS EC2 Instances, Lambda functions, Databases, and anything else you want to submit 
-
+of CloudWatch log stream events as you want, events generated from AWS EC2 Instances, Lambda functions, Databases, and anything else you want to submit 
 log events from.Please note, this proj involves creating  Amazon OpenSearch Service domain, which can take up to twenty minutes to finish setting up. 
 
 Compare and contrast the log analysis 
